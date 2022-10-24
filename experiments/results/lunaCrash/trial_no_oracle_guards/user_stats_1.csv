@@ -1,0 +1,169 @@
+authority,referrer,fees,next_epoch_ts,maker_volume30d,taker_volume30d,filler_volume30d,last_maker_volume30d_ts,last_taker_volume30d_ts,last_filler_volume30d_ts,if_staked_quote_asset_amount,number_of_sub_accounts,is_referrer,padding,slot,write_version,updated_on
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=0, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,0,0,1666616411,1666616411,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",22,373,2022-10-24 13:00:12.023810
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=0, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,0,0,1666616411,1666616411,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",23,438,2022-10-24 13:00:12.625419
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=23073, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,23072640,0,1666616411,1666616417,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",34,565,2022-10-24 13:00:17.991220
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=57431, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,57430009,0,1666616411,1666616425,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",51,722,2022-10-24 13:00:26.013652
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=144701, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,144699076,0,1666616411,1666616440,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",82,999,2022-10-24 13:00:40.810434
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=189841, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,189836448,0,1666616411,1666616470,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",146,1747,2022-10-24 13:01:11.404068
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=210452, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,210446826,0,1666616411,1666616473,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",152,1805,2022-10-24 13:01:14.412501
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=251212, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,251204499,0,1666616411,1666616497,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",201,2226,2022-10-24 13:01:37.982520
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=318126, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,318117912,0,1666616411,1666616502,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",212,2324,2022-10-24 13:01:43.370790
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=337956, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,337946416,0,1666616411,1666616514,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",236,2556,2022-10-24 13:01:54.538162
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=362053, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,362041023,0,1666616411,1666616530,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",270,2857,2022-10-24 13:02:10.830304
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=434302, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,434288501,0,1666616411,1666616540,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",292,3051,2022-10-24 13:02:21.347172
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=484111, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,484097079,0,1666616411,1666616542,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",295,3079,2022-10-24 13:02:22.797163
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=574119, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,574102285,0,1666616411,1666616555,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",322,3314,2022-10-24 13:02:35.820995
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=659980, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,659957276,0,1666616411,1666616581,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",378,3818,2022-10-24 13:03:02.630886
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=741772, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,741745665,0,1666616411,1666616592,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",401,4019,2022-10-24 13:03:13.460703
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=817669, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,817629172,0,1666616411,1666616636,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",493,4843,2022-10-24 13:03:57.677475
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=870094, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,870032756,0,1666616411,1666616701,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",627,6043,2022-10-24 13:05:01.880837
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=961161, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,961069853,0,1666616411,1666616790,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",814,7690,2022-10-24 13:06:31.350538
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=968466, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,968364476,0,1666616411,1666616816,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",868,8178,2022-10-24 13:06:57.104939
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=1045899, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,1045782509,0,1666616411,1666616855,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",950,8905,2022-10-24 13:07:36.080613
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=1045899, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,1045782509,0,1666616411,1666616855,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",1028,9569,2022-10-24 13:08:13.551293
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=1045899, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,1045782509,0,1666616411,1666616855,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",1073,10017,2022-10-24 13:08:34.818251
+JBRjb8mUenjHYvjqUk8cqYvwAKUERoJqmf6N8G5HETqu,11111111111111111111111111111111,"UserFees(total_fee_paid=1045899, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,1045782509,0,1666616411,1666616855,1666616411,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",1102,10318,2022-10-24 13:08:48.928120

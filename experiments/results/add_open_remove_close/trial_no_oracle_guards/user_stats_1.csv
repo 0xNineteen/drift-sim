@@ -1,0 +1,29 @@
+authority,referrer,fees,next_epoch_ts,maker_volume30d,taker_volume30d,filler_volume30d,last_maker_volume30d_ts,last_taker_volume30d_ts,last_filler_volume30d_ts,if_staked_quote_asset_amount,number_of_sub_accounts,is_referrer,padding,slot,write_version,updated_on
+EqGtxqewwkd6ic4zN5PCkkueRnyMPKD1iBLUhYhpqT7Q,11111111111111111111111111111111,"UserFees(total_fee_paid=0, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,0,0,1666634522,1666634522,1666634522,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",22,319,2022-10-24 18:02:02.809350
+EqGtxqewwkd6ic4zN5PCkkueRnyMPKD1iBLUhYhpqT7Q,11111111111111111111111111111111,"UserFees(total_fee_paid=0, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,0,0,1666634522,1666634522,1666634522,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",23,352,2022-10-24 18:02:03.358713
+EqGtxqewwkd6ic4zN5PCkkueRnyMPKD1iBLUhYhpqT7Q,11111111111111111111111111111111,"UserFees(total_fee_paid=0, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,0,0,1666634522,1666634522,1666634522,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",37,505,2022-10-24 18:02:10.058942
+EqGtxqewwkd6ic4zN5PCkkueRnyMPKD1iBLUhYhpqT7Q,11111111111111111111111111111111,"UserFees(total_fee_paid=0, total_fee_rebate=0, total_token_discount=0, total_referee_discount=0, total_referrer_reward=0, current_epoch_referrer_reward=0)",0,0,0,0,1666634522,1666634522,1666634522,0,1,False,"ListContainer: 
+    0
+    0
+    0
+    0
+    0
+    0",50,639,2022-10-24 18:02:16.291072
